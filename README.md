@@ -3,4 +3,4 @@
 
 <h3>Here is the preview of our project</h3>
 
-<img src="https://github.com/Coding-Fetch/framer-cursor/issues/1#issue-2109729442"></img>
+<img src="https://github.com/Coding-Fetch/framer-cursor/issues/2#issue-2109744937"></img>
